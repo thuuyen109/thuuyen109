@@ -34,8 +34,8 @@ Currently learning my way from **Data Analyst → Data Engineer**, exploring too
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<thuuyen109>&show_icons=true&theme=rose_pine&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<thuuyen109>&layout=compact&theme=rose_pine&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thuuyen109&show_icons=true&theme=rose_pine&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuuyen109&layout=compact&theme=rose_pine&hide_border=true" height="160" />
 </p>
 
 ---
