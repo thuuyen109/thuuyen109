@@ -1,7 +1,7 @@
 # 🐾 Hi there, I'm Uyen (Wendy Truong) 👋  
 
 I'm a little cat 🐱 who works hard, stays curious, and loves turning data into something meaningful.  
-Currently learning my way from **Data Analyst → Data Engineer**, exploring tools like **Airflow**, **dbt**, and **Spark** to build scalable and reliable data systems.  
+Currently learning my way from **BI → Engineer (Data Engineering / Analytics Engineering)**, exploring tools like **Airflow**, **dbt**, and **Spark** to build scalable and reliable data systems.  
 
 ---
 
