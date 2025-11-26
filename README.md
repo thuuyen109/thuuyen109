@@ -1,14 +1,14 @@
 # 🐾 Hi there, I'm Uyen (Wendy Truong) 👋  
 
 I'm a little cat 🐱 who works hard, stays curious, and loves turning data into something meaningful.  
-Currently learning my way from **BI Developer → Engineer (Data Engineering / Analytics Engineering)**, exploring tools like **Airflow**, **dbt**, and **Spark** to build scalable and reliable data systems.  
+My work centers around **designing reliable data pipelines**, **optimizing performance**, and ensuring that analytics systems scale as the business grows. I enjoy turning messy data problems into clean, efficient workflows.  
 
 ---
 
 ### 💡 About Me  
-- 🎯 Enjoy designing **data architectures** that are clean, efficient, and maintainable 
-- 🧠 Love understanding how data supports business decisions 
-- 🚀 Constantly learning and improving
+- 🛠 Think in terms of systems, dependencies, and long-term data health
+- 🧭 Value clarity: clean structures, clear logic, and predictable data behavior
+- 📈 Driven by improving how organizations use and trust their data
 
 ---
 
@@ -32,5 +32,5 @@ Currently learning my way from **BI Developer → Engineer (Data Engineering / A
 ---
 
 
-⭐️ _Thanks for visiting! Feel free to explore my repos — everything here is a step on my journey from Analyst to Engineer._  
+⭐️ _Thanks for visiting! Feel free to explore my repos — each project reflects my passion for data engineering and system optimization._  
 
