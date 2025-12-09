@@ -25,8 +25,8 @@ My work centers around **designing reliable data pipelines**, **optimizing perfo
 
 ---
 
-### 🌱 Currently Learning  
-💭 Practicing **end-to-end data projects**: ingestion → transformation → orchestration → visualization  
+### 🌱 Currently Practicing  
+💭 Building **end-to-end data projects**: ingestion → transformation → orchestration → visualization  
 
 
 ---
